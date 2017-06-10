@@ -1,0 +1,36 @@
+h1{
+	font-size: 40px;
+}
+
+.main-frame{
+	background-color: #808080;
+	border: 5px solid #f45942;
+	border-radius: 5px;
+	padding-left: 10px;
+	padding-right:10px;
+	height: 500px;
+	width:500px;
+}
+
+
+input[type=number] {
+	width: 200px;
+	padding-left: 10px;
+	background-color: #afcbaf;
+	border: 2px solid #bf1752;
+	border-radius: 5px;
+	height: 25px;
+	margin: 10px;
+	font-size: 14px;
+}
+
+input [type=button]{
+	width: 200px;
+	padding-left: 10px;
+	background-color: #afcbaf;
+	border: 2px solid #bf1752;
+	border-radius: 5px;
+	height: 25px;
+	margin: 10px;
+	font-size: 14px;
+}
